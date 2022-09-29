@@ -1,0 +1,3 @@
+pattern=train	dataset_id=01	amount=20000	N=20	processors=32	rate=4	decay=0.3	gauge=True
+Total amount=3200000	Time=627.2558584213257
+max=0.002840092435110304	min=0.0	mean=0.0002685803705081511	std=0.0002821348958273556
