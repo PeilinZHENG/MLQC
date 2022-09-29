@@ -6,8 +6,8 @@ traingauge=1
 N=20
 num_seed=0
 scale=500
-traindataName="ME_01"
-valdataName="ME_01"
+traindataName="ME_01,ME_CDW_01,ME_BDW_01"
+valdataName="ME_01,ME_CDW_01,ME_BDW_01"
 Net="Deep_sig.test"
 init=None
 
