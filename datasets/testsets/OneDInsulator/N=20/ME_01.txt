@@ -1,0 +1,3 @@
+pattern=test	dataset_id=01	amount=2000	N=20	processors=16	rate=4	decay=0.3	gauge=True
+Total amount=160000	Time=92.53245425224304
+max=0.002484149586935969	min=0.0	mean=0.0002679790707274322	std=0.000281198213008763
