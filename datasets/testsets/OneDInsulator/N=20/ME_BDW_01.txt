@@ -1,3 +1,0 @@
-pattern=test	dataset_id=BDW_01	amount=2000	N=20	processors=16	rate=4	decay=0.3	gauge=True
-Total amount=160000	Time=80.37051916122437
-max=0.0028070898958532067	min=0.0	mean=0.0003295352344291364	std=0.0003614840864371066

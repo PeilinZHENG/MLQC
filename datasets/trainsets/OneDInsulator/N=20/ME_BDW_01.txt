@@ -1,3 +1,0 @@
-pattern=train	dataset_id=BDW_01	amount=20000	N=20	processors=32	rate=4	decay=0.3	gauge=True
-Total amount=3200000	Time=628.3632173538208
-max=0.0030450156486092578	min=0.0	mean=0.0003293937198796721	std=0.00036135896792395403

@@ -1,3 +1,0 @@
-pattern=train	dataset_id=CDW_01	amount=20000	N=20	processors=32	rate=4	decay=0.3	gauge=True
-Total amount=3200000	Time=659.537162065506
-max=0.004871020808013938	min=0.0	mean=0.0003192847646683984	std=0.0003388728083917075
